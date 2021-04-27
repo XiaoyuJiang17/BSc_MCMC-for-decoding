@@ -1,4 +1,4 @@
-# Course_Project_MCMC-for-decoding
+# Coursework_Project_Breaking permutation ciphers using MCMC
 Written in Matlab, several steps for the projects are:
 1. Data Processing
 2. Statistical Learning: learning frequency table from 'War and Peace'
